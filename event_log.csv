@@ -1,0 +1,9 @@
+case_id,activity,timestamp
+1,Order Received,2024-01-01 10:00
+1,Payment Done,2024-01-01 10:10
+1,Packing,2024-01-01 11:00
+1,Shipped,2024-01-01 12:00
+2,Order Received,2024-01-01 10:05
+2,Payment Done,2024-01-01 10:20
+2,Packing,2024-01-01 11:30
+2,Shipped,2024-01-01 12:40
